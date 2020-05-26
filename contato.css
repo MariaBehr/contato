@@ -1,0 +1,52 @@
+body {
+    font-family: "Times New Roman", serif;
+	background:#FFFAFA;
+	font-size: 120%;
+    line-height: 1.5   
+}
+.titulo_contato {
+	background:	#F8F8FF;
+	border: 3px solid black;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+	text-align: justify;
+	padding: 4px;
+     
+}
+
+.circle-icons {
+    padding: 10px; 
+    font-size: 18px; 
+    width: 18px; 
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px; 
+    border-radius: 50%;  
+    background: pink; 
+    color: #F8F8FF; 
+  }
+  .circle-icons:hover {
+  background: #ccc; 
+  color: #F8F8FF;  
+  opacity: 0.7;
+}
+#img6 {
+    float: center;
+    width: 25%;
+	right: 25%;
+	border: 5px solid pink;
+
+}
+.rodape {
+    background-color: pink;
+    border: 2px solid black;
+    clear: both;
+	position: move;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+}
